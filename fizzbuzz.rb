@@ -10,3 +10,4 @@ def fizzbuzz(int)
     "FizzBuzz"
   elsif int
   end
+end

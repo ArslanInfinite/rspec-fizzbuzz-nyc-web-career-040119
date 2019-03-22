@@ -8,6 +8,6 @@ def fizzbuzz(int)
     "Buzz"
   elsif int % 5 == 0 and int % 3 == 0
     "FizzBuzz"
-elsif !true (int % 5 == 0 and int % 3 == 0)
+  elsif int
   end
 end
